@@ -1,2 +1,2 @@
 # Enhanced Machine Learning
-This project contain
+This project contains machine learning 
