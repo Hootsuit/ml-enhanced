@@ -5,4 +5,4 @@ This project contains machine learning notebooks for Data Science enthusiasts an
 3. [Feature Scaling](https://github.com/Hootsuit/ml-enhanced/blob/master/notebooks/Feature_scaling.ipynb)
 4. [Normal Equation](https://github.com/Hootsuit/ml-enhanced/blob/master/notebooks/Normal_equation.ipynb)
 5. [Logistic Regression](https://github.com/Hootsuit/ml-enhanced/blob/master/notebooks/Logistic_regression.ipynb)
-6. [Time Series Forecast](http
+6. [Time Series Forecast](https://github.com/Hoots
